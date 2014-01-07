@@ -26,25 +26,11 @@ public class fenetre {
 		  //Au sud
 		    this.getContentPane().add(new JButton("Connexion"), BorderLayout.SOUTH);
 		  } 
-		   
-		    
-		    
-		    
-		    
-		    
-		} //fin de la définition de la fenètre
+		  
+} //fin de la définition de la fenètre
 			
-	
-				
 		fenetreprincipal fen = new fenetreprincipal(); //appel de la fenètre principal 
 		
-	
-	    
-	  } 
-	
-	
-	
-	
-
+		  } 
 	
 }
